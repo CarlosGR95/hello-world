@@ -2,7 +2,7 @@ package guru.springframework;
 /**
  * Created by jt on 2018-12-07.
  */
-public class AppTest {
+public class HelloWorldTest {
 
     public void testHello(){
 
